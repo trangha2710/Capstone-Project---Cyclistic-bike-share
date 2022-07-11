@@ -18,7 +18,7 @@ data has been made available by Motivate International Inc. under this
 #### Load packages
 
 ``` r
-knitr::opts_chunk$set(message = FALSE,dev="png")
+knitr::opts_chunk$set(message = FALSE,dev="png",fig.path='Figs/')
 library(dplyr)
 ```
 
