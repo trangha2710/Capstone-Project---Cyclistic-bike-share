@@ -6,8 +6,8 @@ Ngoc Trang HA
 #### Introduction
 
 This is the Cyclistic bike-share analysis case study, a project capstone
-of Google Data Analytics brought by Coursera. It contains 3 of 6 steps
-of data analysis which are Prepare-Analyze-Share.
+of Google Data Analytics brought by Coursera. It consists of 3 of 6 steps
+of data analysis process which are Prepare-Analyze-Share.
 
 (Note: The datasets have a different name because Cyclistic is a
 fictional company. For the purposes of this case study, the datasets are
